@@ -1,5 +1,7 @@
 
 Select 1;
 
-Select print 'HelloWorld!'
+Select print 'HelloWorld!';
+Select 2;
+
 
