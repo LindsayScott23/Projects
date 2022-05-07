@@ -1,0 +1,45 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/lins/git/Projects/TestProject1/TestProject1.sqlproj": {}
+  },
+  "projects": {
+    "/home/lins/git/Projects/TestProject1/TestProject1.sqlproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/lins/git/Projects/TestProject1/TestProject1.sqlproj",
+        "projectName": "TestProject1",
+        "projectPath": "/home/lins/git/Projects/TestProject1/TestProject1.sqlproj",
+        "packagesPath": "/home/lins/.nuget/packages/",
+        "outputPath": "/home/lins/git/Projects/TestProject1/obj/",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "/home/lins/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net46"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net46": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net46": {
+          "dependencies": {
+            "Microsoft.NETFramework.ReferenceAssemblies": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.0, )"
+            }
+          }
+        }
+      }
+    }
+  }
+}

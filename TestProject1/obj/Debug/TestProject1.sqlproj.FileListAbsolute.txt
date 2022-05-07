@@ -1,0 +1,9 @@
+/home/lins/git/Projects/TestProject1/bin/Debug/TestProject1.dacpac
+/home/lins/git/Projects/TestProject1/bin/Debug/TestProject1.dll
+/home/lins/git/Projects/TestProject1/bin/Debug/TestProject1.pdb
+/home/lins/git/Projects/TestProject1/obj/Debug/Model.xml
+/home/lins/git/Projects/TestProject1/obj/Debug/refactor.xml
+/home/lins/git/Projects/TestProject1/obj/Debug/postdeploy.sql
+/home/lins/git/Projects/TestProject1/obj/Debug/predeploy.sql
+/home/lins/git/Projects/TestProject1/obj/Debug/TestProject1.dll
+/home/lins/git/Projects/TestProject1/obj/Debug/TestProject1.pdb

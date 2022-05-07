@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "a8uplivQ+dLIAc+rrsodUT278n9XSsqUv8xoX3nZ9tcM6IS1I6Q5zdaudGAtmIumU7N57WYpj2RuUfVq73PNrA==",
+  "success": true,
+  "projectFilePath": "/home/lins/git/Projects/TestProject1/TestProject1.sqlproj",
+  "expectedPackageFiles": [
+    "/home/lins/.nuget/packages/microsoft.netframework.referenceassemblies/1.0.0/microsoft.netframework.referenceassemblies.1.0.0.nupkg.sha512",
+    "/home/lins/.nuget/packages/microsoft.netframework.referenceassemblies.net46/1.0.0/microsoft.netframework.referenceassemblies.net46.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
